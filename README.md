@@ -6,7 +6,7 @@
 Compatible with React, Vue, Angular & other frameworks.
 Add your modal content with <slot>. 
 
-
+![vanilla-modal](https://github.com/gshohat/web-component-vanilla-modal/assets/91323932/048ff986-11de-4b69-a5b0-3b2664350841)
 
 ## Vue Usage
 
