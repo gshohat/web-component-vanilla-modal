@@ -2,7 +2,7 @@
 
 ![NPM License](https://img.shields.io/npm/l/web-component-vanilla-modal)
 
-**Lightweight**, easy to use & customizable modal **< 5k** 😎 <br>
+**Lightweight**, easy to use & customizable modal **< 10k** 😎 <br>
 Compatible with React, Vue, Angular & other frameworks.
 Add your modal content with <slot>. 
 
