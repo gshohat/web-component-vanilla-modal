@@ -1,0 +1,49 @@
+{
+  "name": "web-component-vanilla-modal",
+  "version": "1.0.1",
+  "author": "Gilad Shohat",
+  "description": "Modal component for Vue, React, Angular & other frameworks",
+  "homepage": "https://github.com/gshohat/web-component-vanilla-modal#readme",
+  "license": "MIT",
+  "main": "./dist/vanilla-modal.umd.js",
+  "module": "./dist/vanilla-modal.es.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/vanilla-modal.es.js",
+      "require": "./dist/vanilla-modal.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "path": "^0.12.7",
+    "vite": "^4.4.6"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "angular",
+    "cross framework",
+    "component",
+    "front-end",
+    "vanilla",
+    "front-end",
+    "web",
+    "dialog",
+    "alert",
+    "modal"
+  ]
+}
+
+
