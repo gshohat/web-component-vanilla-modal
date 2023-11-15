@@ -1,6 +1,6 @@
 {
   "name": "web-component-vanilla-modal",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Gilad Shohat",
   "description": "Modal component for Vue, React, Angular & other frameworks",
   "homepage": "https://github.com/gshohat/web-component-vanilla-modal#readme",
