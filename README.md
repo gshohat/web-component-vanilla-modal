@@ -4,7 +4,7 @@
 
 **Lightweight**, easy to use & customizable modal **< 10k** 😎 <br>
 Compatible with React, Vue, Angular & other frameworks.
-Add your modal content with <slot>. 
+Add your modal content with a Slot element. 
 
 ![vanilla-modal](https://github.com/gshohat/web-component-vanilla-modal/assets/91323932/6b29f14e-2790-4ad9-b431-253e8ef54767)
 
