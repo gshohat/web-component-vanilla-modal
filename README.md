@@ -16,6 +16,7 @@ Add your modal content with a Slot element.
 <script setup>
 import VanillaModal from 'web-component-vanilla-modal';
 
+let modalElement = null;
 
 onMounted(() => {
   modalElement = document.getElementById('vanilla-modal');
@@ -23,11 +24,19 @@ onMounted(() => {
   buttonElement.addEventListener('click', handleOpenModal);
 });
 
+function handleOpenModal(event) {
+  modalElement.open();
+}
+
 </script>
 
 
 <template>
-<tree-select id="tree-select"/>
+<vanilla-modal id="vanilla-modal" >
+    <div slot="custom-slot">
+        Your next modal content
+    </div>
+</vanilla-modal>
 </template
 ```
 
