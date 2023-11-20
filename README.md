@@ -37,7 +37,7 @@ function handleOpenModal(event) {
         Your next modal content
     </div>
 </vanilla-modal>
-</template
+</template>
 ```
 
 vite config
